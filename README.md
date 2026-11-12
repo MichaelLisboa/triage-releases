@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/icon.png" alt="" width="88">
   <h1>Triage</h1>
-  <p><b>Knows what needs you right now.</b><br>It reads your mail, your chats and your day, and shows you the one thing to do.</p>
+  <p><b>Knows what moment of your day you're in, and what needs you in it.</b><br>It goes by your whole day: how you slept, where you are, what's next, what you're carrying. Then it shows you the one thing to do.</p>
   <p><b>Private.</b> All of it happens on your phone, and nothing it reads ever leaves it. No server. No account. No sign-in.<br><b>Works with <a href="https://iamvanity.com">Vanity</a>.</b> If you use it, Triage can tell Vanity what needs you. Only what to do and when. Never your messages.</p>
   <p>
     <a href="https://github.com/MichaelLisboa/triage-releases/releases/latest"><img src="https://img.shields.io/github/v/release/MichaelLisboa/triage-releases?label=version&color=e8a33d" alt="Latest version"></a>
@@ -27,13 +27,13 @@
   </tr>
 </table>
 
-Be honest. Forty unread emails, three chats waiting, a form somebody wants by Friday. And no idea which of them matters at 1:38 on a Thursday.
+Be honest. It's 1:38 on a Thursday. Dad's birthday is Saturday, the flights to Lisbon aren't picked, and the kitchen still has no tiles. Which one needs you right now?
 
-Triage does.
+Triage knows.
 
-It reads your mail and your chats. It looks at your calendar. If you let it, it notices how you slept, where you are and whether you're on the move. Then it shows you the one thing that needs you now, and holds the rest until the moment it fits.
+It goes by your day. If you let it, it notices how you slept, where you are, whether you're on the move, what's on your calendar and what people have asked of you. Then it shows you the one thing that fits this moment, and holds the rest until its moment comes.
 
-It isn't an inbox. It follows the things you're carrying, like a residence permit or a kitchen renovation, across whoever wrote and whichever app they wrote in. When something needs an answer, it drafts one. You read it, and you press Send.
+It isn't an inbox. Mail and chats are one of the things it notices, the same way sleep is. What it follows is what you're carrying, like a residence permit or a kitchen renovation, across whoever wrote and whichever app they wrote in. When something needs an answer, it drafts one. You read it, and you press Send.
 
 And all of it happens on your phone. There is no Triage server. No account. No sign-in. Nothing you receive ever reaches me.
 
@@ -48,8 +48,8 @@ This is version 0.2. It's an alpha. Things will break.
 ## What it needs
 
 - **A phone that can run AI by itself.** Some have it built in: recent Pixels, and Samsung's Galaxy S25, Z Flip7 and Z Fold7 or newer. On other phones with plenty of memory, around 12 GB, Triage downloads one, once: 2.6 GB. On a phone with neither, it says so and stops there.
-- **A mailbox.** Gmail, iCloud, Yahoo, AOL, Fastmail and most others work. Gmail and iCloud make you create an app password first, and Triage walks you through it. Outlook, Hotmail and Microsoft 365 don't work yet.
 - **English, for now.** It translates messages that arrive in other languages. Triage itself only speaks English.
+- **Your mail, if you want it in.** Triage works without it. Gmail, iCloud, Yahoo, AOL, Fastmail and most others work. Gmail and iCloud make you create an app password first, and Triage walks you through it. Outlook, Hotmail and Microsoft 365 don't work yet.
 
 ## Your phone will complain
 
@@ -64,7 +64,7 @@ Triage doesn't come from the Play Store, so your phone will ask if you're sure. 
 
 ## It asks for a lot
 
-Mail. Chats. Text messages. Your calendar and contacts. Sleep and steps. Where you are. Which apps you use.
+Sleep and steps. Where you are. Your calendar and contacts. Which apps you use. Mail, chats and text messages.
 
 Each one is a question, and you can say no to any of them. Triage works with whatever you allow.
 
