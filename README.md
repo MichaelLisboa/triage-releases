@@ -1,11 +1,13 @@
 <div align="center">
   <img src="assets/icon.png" alt="" width="88">
   <h1>Triage</h1>
-  <p><b>Knows what needs you right now.</b><br>It reads your mail, your chats and your day, on your phone, and shows you the one thing to do.</p>
+  <p><b>Knows what needs you right now.</b><br>It reads your mail, your chats and your day, and shows you the one thing to do.</p>
+  <p><b>Private.</b> All of it happens on your phone, and nothing it reads ever leaves it. No server. No account. No sign-in.<br><b>Works with <a href="https://iamvanity.com">Vanity</a>.</b> If you use it, Triage can tell Vanity what needs you. Only what to do and when. Never your messages.</p>
   <p>
     <a href="https://github.com/MichaelLisboa/triage-releases/releases/latest"><img src="https://img.shields.io/github/v/release/MichaelLisboa/triage-releases?label=version&color=e8a33d" alt="Latest version"></a>
     <img src="https://img.shields.io/badge/Android-13%20or%20later-5b6470" alt="Android 13 or later">
-    <img src="https://img.shields.io/badge/runs%20on-your%20phone-5b6470" alt="Runs on your phone">
+    <a href="PRIVACY.md"><img src="https://img.shields.io/badge/private-nothing%20leaves%20your%20phone-2f7d5b" alt="Private: nothing leaves your phone"></a>
+    <a href="https://iamvanity.com"><img src="https://img.shields.io/badge/works%20with-Vanity-5b6470" alt="Works with Vanity"></a>
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
