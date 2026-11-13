@@ -1,8 +1,8 @@
 # Triage and your privacy
 
-This is what Triage 0.3 says about itself, word for word as it is in the app under Settings, Privacy and data. "I" is Triage.
+This is what Triage 0.4 says about itself, word for word as it is in the app under Settings, Privacy and data. "I" is Triage.
 
-**Read and sorted on this phone.** I read and sort your mail and messages on this phone. There's no Triage server, so they never reach the people who made me. The same goes for everything else I look at: your calendar, contacts, health, steps and the apps you use. None of it is shared, with anyone.
+**Read and sorted on this phone.** Whatever you let me look at, I read on this phone and nowhere else: your calendar, contacts, health, steps, where you are, the apps you use, your mail and your messages. There's no Triage server, so none of it reaches the people who made me. None of it is shared, with anyone.
 
 ## What I read
 

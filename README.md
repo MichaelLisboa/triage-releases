@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
-    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.3/Triage-0.3.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
+    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.4/Triage-0.4.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
   </p>
 </div>
 
@@ -41,9 +41,9 @@ And all of it happens on your phone. There is no Triage server. No account. No s
 
 | | Download | Runs on | Size |
 | --- | --- | --- | --- |
-| **Android** | [Triage-0.3.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.3/Triage-0.3.apk) | Android 13 or later | 52 MB |
+| **Android** | [Triage-0.4.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.4/Triage-0.4.apk) | Android 13 or later | 52 MB |
 
-This is version 0.3. It's an alpha. Things will break.
+This is version 0.4. It's an alpha. Things will break.
 
 ## What it needs
 
