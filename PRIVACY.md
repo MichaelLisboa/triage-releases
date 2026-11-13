@@ -1,6 +1,6 @@
 # Triage and your privacy
 
-This is what Triage 0.4 says about itself, word for word as it is in the app under Settings, Privacy and data. "I" is Triage.
+This is what Triage 0.5 says about itself, word for word as it is in the app under Settings, Privacy and data. "I" is Triage.
 
 **Read and sorted on this phone.** Whatever you let me look at, I read on this phone and nowhere else: your calendar, contacts, health, steps, where you are, the apps you use, your mail and your messages. There's no Triage server, so none of it reaches the people who made me. None of it is shared, with anyone.
 
@@ -44,8 +44,8 @@ This is what Triage 0.4 says about itself, word for word as it is in the app und
 ## Where I connect
 
 - Your mail provider's servers: I use them to read your mail, to send the replies you approve and, only if you allow it, to mark mail you've finished with as read and move mail you delete, report as spam or unsubscribe from to its bin or spam folder, a few seconds after you ask.
-- A one-time lookup of your mail domain (not your address) at Thunderbird's public directory, autoconfig.thunderbird.net, when I don't already know your provider.
-- Microsoft's sign-in, for Outlook mailboxes.
+- A one-time lookup of your mail domain, and of the company that handles its mail (not your address), at Thunderbird's public directory, autoconfig.thunderbird.net, when I don't already know your provider.
+- Microsoft's sign-in, for Outlook mailboxes. It is also asked, once, whether your mail domain (not your address) is one of its organisations, when the directory doesn't know your provider.
 - huggingface.co, only if you download Gemma 4.
 - The place Triage is published, when you open it: I ask whether there is a newer version, and fetch it if you say so. Nothing about you is sent.
 - Google, the first time a message comes in a language I haven't translated before: your phone downloads that language, once, so I can translate it here. The message itself is never sent.

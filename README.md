@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
-    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.4/Triage-0.4.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
+    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.5/Triage-0.5.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
   </p>
 </div>
 
@@ -41,15 +41,15 @@ And all of it happens on your phone. There is no Triage server. No account. No s
 
 | | Download | Runs on | Size |
 | --- | --- | --- | --- |
-| **Android** | [Triage-0.4.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.4/Triage-0.4.apk) | Android 13 or later | 52 MB |
+| **Android** | [Triage-0.5.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.5/Triage-0.5.apk) | Android 13 or later | 52 MB |
 
-This is version 0.4. It's an alpha. Things will break.
+This is version 0.5. It's an alpha. Things will break.
 
 ## What it needs
 
 - **A phone that can run AI by itself.** Some have it built in: recent Pixels, and Samsung's Galaxy S25, Z Flip7 and Z Fold7 or newer. On other phones with plenty of memory, around 12 GB, Triage downloads one, once: 2.6 GB. On a phone with neither, it says so and stops there.
 - **English, for now.** It translates messages that arrive in other languages. Triage itself only speaks English.
-- **Your mail, if you want it in.** Triage works without it. Gmail, iCloud, Yahoo, AOL, Fastmail and most others work. Gmail and iCloud make you create an app password first, and Triage walks you through it. Outlook, Hotmail and Microsoft 365 sign in on Microsoft's own page. A work or school mailbox may need your workplace to allow it.
+- **Your mail, if you want it in.** Triage works without it. Gmail, iCloud, Yahoo, AOL, Fastmail and most others work. Gmail and iCloud make you create an app password first, and Triage walks you through it. Outlook, Hotmail and Microsoft 365 sign in on Microsoft's own page. An Outlook.com or Hotmail mailbox has to have "Let devices and apps use IMAP" turned on in its settings first. A work or school mailbox may need your workplace to allow it.
 
 ## Your phone will complain
 
