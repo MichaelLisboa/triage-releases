@@ -2,16 +2,16 @@
   <img src="assets/icon.png" alt="" width="88">
   <h1>Triage</h1>
   <p><b>Knows what moment of your day you're in, and what needs you in it.</b><br>It goes by your whole day: how you slept, where you are, what's next, what you're carrying. Then it shows you the one thing to do.</p>
-  <p><b>Private.</b> All of it happens on your phone, and nothing it reads ever leaves it. No server. No account. No sign-in.<br><b>Works with <a href="https://iamvanity.com">Vanity</a>.</b> If you use it, Triage can tell Vanity what needs you. Only what to do and when. Never your messages.</p>
+  <p><b>Private.</b> All of it happens on your phone, and nothing it reads leaves it unless you choose a company's AI in Settings. No server. No account. No sign-in.<br><b>Works with <a href="https://iamvanity.com">Vanity</a>.</b> If you use it, Triage can tell Vanity what needs you. Only what to do and when. Never your messages.</p>
   <p>
     <a href="https://github.com/MichaelLisboa/triage-releases/releases/latest"><img src="https://img.shields.io/github/v/release/MichaelLisboa/triage-releases?label=version&color=e8a33d" alt="Latest version"></a>
     <img src="https://img.shields.io/badge/Android-13%20or%20later-5b6470" alt="Android 13 or later">
-    <a href="PRIVACY.md"><img src="https://img.shields.io/badge/private-nothing%20leaves%20your%20phone-2f7d5b" alt="Private: nothing leaves your phone"></a>
+    <a href="PRIVACY.md"><img src="https://img.shields.io/badge/private-on%20your%20phone%20by%20default-2f7d5b" alt="Private: on your phone by default"></a>
     <a href="https://iamvanity.com"><img src="https://img.shields.io/badge/works%20with-Vanity-5b6470" alt="Works with Vanity"></a>
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
-    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.5/Triage-0.5.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
+    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.6/Triage-0.6.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
   </p>
 </div>
 
@@ -35,15 +35,15 @@ It goes by your day. If you let it, it notices how you slept, where you are, whe
 
 It isn't an inbox. Mail and chats are one of the things it notices, the same way sleep is. What it follows is what you're carrying, like a residence permit or a kitchen renovation, across whoever wrote and whichever app they wrote in. When something needs an answer, it drafts one. You read it, and you press Send.
 
-And all of it happens on your phone. There is no Triage server. No account. No sign-in. Nothing you receive ever reaches me.
+And all of it happens on your phone, unless you choose OpenAI, Gemini or Claude in Settings to do the reading. There is no Triage server. No account. No sign-in. Nothing you receive ever reaches me.
 
 ## Get it
 
 | | Download | Runs on | Size |
 | --- | --- | --- | --- |
-| **Android** | [Triage-0.5.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.5/Triage-0.5.apk) | Android 13 or later | 52 MB |
+| **Android** | [Triage-0.6.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.6/Triage-0.6.apk) | Android 13 or later | 55 MB |
 
-This is version 0.5. It's an alpha. Things will break.
+This is version 0.6. It's an alpha. Things will break.
 
 ## What it needs
 
@@ -68,7 +68,7 @@ Sleep and steps. Where you are. Your calendar and contacts. Which apps you use. 
 
 Each one is a question, and you can say no to any of them. Triage works with whatever you allow.
 
-What it reads stays on your phone. The whole list of what it reads, what it keeps and where it connects is in [PRIVACY.md](PRIVACY.md). It's the same text the app shows you before you start, word for word.
+What it reads stays on your phone, unless you choose a company's AI to read it. The whole list of what it reads, what it keeps and where it connects is in [PRIVACY.md](PRIVACY.md). It's the same text the app shows you before you start, word for word.
 
 ## It updates itself
 
