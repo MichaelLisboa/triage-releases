@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/stage-alpha-5b6470" alt="Alpha">
   </p>
   <p>
-    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.6/Triage-0.6.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
+    <a href="https://github.com/MichaelLisboa/triage-releases/releases/download/v0.7/Triage-0.7.apk"><img src="assets/android.svg" alt="Download for Android" width="209"></a>
   </p>
 </div>
 
@@ -68,9 +68,9 @@ Triage hands you one thing. The rest can wait.
 
 | | Download | Runs on | Size |
 | --- | --- | --- | --- |
-| **Android** | [Triage-0.6.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.6/Triage-0.6.apk) | Android 13 or later | 55 MB |
+| **Android** | [Triage-0.7.apk](https://github.com/MichaelLisboa/triage-releases/releases/download/v0.7/Triage-0.7.apk) | Android 13 or later | 55 MB |
 
-This is version 0.6. It's an alpha. Things will break.
+This is version 0.7. It's an alpha. Things will break.
 
 ## What it needs
 
